@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\techn\\onedrive\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\techn\\onedrive\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\idataacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\idataacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\techn\\onedrive\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\techn\\onedrive\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\listdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\listdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\techn\\onedrive\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\mongodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\mongodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\techn\\onedrive\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\techn\\onedrive\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\SQLDataAccess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\SQLDataAccess.cs",
+              "ToolTip": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\SQLDataAccess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\SQLDataAccess.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:24:16.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MongoDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\MongoDataAccess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\MongoDataAccess.cs",
+              "ToolTip": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\MongoDataAccess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\MongoDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:24:46.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\ListDataAccess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\ListDataAccess.cs",
+              "ToolTip": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\ListDataAccess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\ListDataAccess.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:23:48.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\DataAccessFactory.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\DataAccessFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:30:05.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataAcess.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\IDataAcess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\IDataAcess.cs",
+              "ToolTip": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\IDataAcess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\IDataAcess.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:20:37.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Program.cs*",
+              "RelativeToolTip": "FactoryPatternExercise2\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:39:13.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Product.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\Product.cs",
+              "ToolTip": "C:\\Users\\techn\\OneDrive\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Product.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:42:30.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
